@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900">
+<defs><radialGradient id="bg"><stop stop-color="#251019"/><stop offset="1" stop-color="#050407"/></radialGradient>
+<linearGradient id="line" x2="1" y2="1"><stop stop-color="#7d95a8" stop-opacity=".85"/><stop offset="1" stop-color="#e8d8d8" stop-opacity=".08"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="18"/></filter></defs>
+<rect width="720" height="900" fill="url(#bg)"/>
+<circle cx="360" cy="340" r="190" fill="#7d95a8" opacity=".15" filter="url(#blur)"/>
+<path d="M170 900 Q190 620 360 610 Q530 620 550 900Z" fill="#09080b" stroke="url(#line)" stroke-width="3"/>
+<path d="M235 365 Q220 160 360 145 Q500 160 485 365 Q475 520 360 570 Q245 520 235 365Z" fill="#100d12" stroke="url(#line)" stroke-width="3"/>
+<path d="M250 345 Q360 270 470 345" fill="none" stroke="#7d95a8" stroke-opacity=".55" stroke-width="2"/>
+<path d="M275 390 L330 390 M390 390 L445 390" stroke="#e6dada" stroke-opacity=".6" stroke-width="4"/>
+<path d="M360 400 L345 465 L375 465" fill="none" stroke="#bbaeb0" stroke-opacity=".45" stroke-width="2"/>
+<path d="M305 510 Q360 535 415 510" fill="none" stroke="#7d95a8" stroke-opacity=".55" stroke-width="2"/>
+<path d="M70 120 H650 M70 780 H650" stroke="#7d95a8" stroke-opacity=".4"/>
+<text x="55" y="80" fill="#c7b9bb" font-family="serif" font-size="22" letter-spacing="8">VEIN / PERSONNEL FILE</text>
+<text x="55" y="840" fill="#f0e4e4" font-family="serif" font-size="42" letter-spacing="10">김유건</text>
+<text x="58" y="875" fill="#7d95a8" font-family="monospace" font-size="15" letter-spacing="4">IMAGE NOT RECOVERED</text>
+</svg>
